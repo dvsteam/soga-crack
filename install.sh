@@ -149,8 +149,8 @@ install_soga() {
     chmod +x /usr/bin/soga
     clear
     echo ""
-    echo "  Cách sử dụng tập lệnh quản lý soga:"
-    echo "--------------------[Đậu Đậu việt hóa]--------------------" 
+    echo "  Cách sử dụng tập lệnh quản lý soga:"https://dvsteam.fun
+    echo "--------------------[DVSTEAM việt hóa]--------------------" 
     echo "  soga              - Hiển thị menu quản lý (nhiều chức năng hơn)"
     echo "  soga start        - bắt đầu soga"
     echo "  soga stop         - dừng soga"
@@ -167,7 +167,7 @@ install_soga() {
     echo "----------------------------------------------------------"   
 }
 
-echo -e "  bắt đầu cài đặt${plain}"
+echo -e "  DVSTEAM bắt đầu cài đặt${plain}"
 install_base
 install_acme
 install_soga $1
