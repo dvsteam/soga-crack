@@ -345,8 +345,8 @@ show_soga_version() {
 
 show_usage() {
     echo ""
-    echo "  Cách sử dụng tập lệnh quản lý soga:"
-    echo "--------------------[Đậu Đậu việt hóa]--------------------" 
+    echo "  Cách sử dụng tập lệnh quản lý soga:"https://dvsteam.fun
+    echo "--------------------[DVSTEAM việt hóa]--------------------" 
     echo "  soga              - Hiển thị menu quản lý (nhiều chức năng hơn)"
     echo "  soga start        - bắt đầu soga"
     echo "  soga stop         - dừng soga"
@@ -367,7 +367,7 @@ show_menu() {
 clear
     echo -e " 
     kịch bản quản lý phụ trợ soga，không hoạt động với docker
-${green}-------[Đậu Đậu việt hóa]-------${plain}
+${green}-------[https://dvseam.fun việt hóa]-------${plain}
     0.${plain} tập lệnh thoát
 ————————————————————————————————
     1.${plain} cài đặt soga
